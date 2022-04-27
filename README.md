@@ -1,4 +1,4 @@
-# vue_resume_refact
+# resume-app_source
 
 ## Project setup
 ```
